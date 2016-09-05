@@ -5,7 +5,6 @@ import java.util.List;
 import static java.util.Collections.frequency;
 
 
-
 public class CheckOut extends Transformer 
    
   {

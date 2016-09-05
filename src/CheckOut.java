@@ -3,7 +3,7 @@ import java.text.NumberFormat;
 import java.util.List;
 
 import static java.util.Collections.frequency;
-//import static java.util.Collections.nCopies;
+
 
 
 public class CheckOut extends Transformer 
